@@ -73,25 +73,6 @@ To get a local copy of the project, follow these steps:
 2. **Clone the repository:**
    ```bash
    git clone https://github.com/Vishakha1510/bhagavad-gita-app.git
-Navigate to the project directory:
 
-bash
-Copy
-cd bhagavad-gita-app
-
-Install dependencies :
- - provider
-
-bash
-Copy
-npm install
-Run the app:
-
-bash
-Copy
-npm start
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Enjoy your spiritual journey with the Bhagavad Gita App! 🕉️🎉
